@@ -1,21 +1,18 @@
-import React, { Component } from 'react';
-import './App.css';
-import Calendar from 'ydl-calendar'
-import 'ydl-calendar/dist/Calendar.css'
+import React, {Component} from 'react';
 
 
+export default class Page extends Component {
+    state = {}
+    componentDidMount() {
 
-class App extends Component {
-  render() {
-    return (
-      <div>
-        <div>
-          1122
-        </div>
-        <Calendar/>
-      </div>
-    );
-  }
+    }
+
+    render() {
+
+        return (
+            <div>
+              123
+            </div>
+        );
+    }
 }
-
-export default App;

@@ -19,7 +19,6 @@ export default class Page extends Component {
             product: 'iphone 12',
             price: 7998,
             url: 'www.baidu.com',
-
         })
     }
 

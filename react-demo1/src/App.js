@@ -3,15 +3,14 @@ import React, {Component} from 'react';
 
 export default class Page extends Component {
     state = {}
-    componentDidMount() {
 
+    componentDidMount() {
     }
 
     render() {
-
         return (
             <div>
-              123
+                1
             </div>
         );
     }
